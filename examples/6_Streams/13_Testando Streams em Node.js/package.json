@@ -1,0 +1,16 @@
+{
+  "name": "13_testando-streams-em-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Usando o módulo streamtest para testar streams.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.2",
+    "streamtest": "^2.0.0"
+  }
+}
