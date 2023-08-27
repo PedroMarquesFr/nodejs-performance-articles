@@ -1,5 +1,6 @@
 const sinon = require('sinon');
 const EventEmitter = require('events');
+const assert = require('assert');
 
 class DelayedEmitter extends EventEmitter {
   delayedEmit() {
